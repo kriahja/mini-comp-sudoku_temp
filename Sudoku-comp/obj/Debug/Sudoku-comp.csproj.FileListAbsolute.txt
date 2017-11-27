@@ -1,0 +1,5 @@
+C:\PBA\Contracts\Sudoku-comp\Sudoku-comp\bin\Debug\Sudoku-comp.dll
+C:\PBA\Contracts\Sudoku-comp\Sudoku-comp\bin\Debug\Sudoku-comp.pdb
+C:\PBA\Contracts\Sudoku-comp\Sudoku-comp\obj\Debug\Sudoku-comp.csprojResolveAssemblyReference.cache
+C:\PBA\Contracts\Sudoku-comp\Sudoku-comp\obj\Debug\Sudoku-comp.dll
+C:\PBA\Contracts\Sudoku-comp\Sudoku-comp\obj\Debug\Sudoku-comp.pdb
